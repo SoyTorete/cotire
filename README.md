@@ -1,6 +1,8 @@
 cotire
 ======
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e18ef81fd9e44646bc27bf85a4a2f061)](https://www.codacy.com/app/TrinityCore/cotire?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TrinityCore/cotire&amp;utm_campaign=Badge_Grade)
+
 Cotire (compile time reducer) is a CMake module that speeds up the build process of CMake based
 build systems by fully automating techniques as [precompiled header][pch] usage and
 [single compilation unit][scu] builds for C and C++.
